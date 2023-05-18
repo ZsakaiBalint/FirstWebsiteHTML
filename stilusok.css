@@ -1,0 +1,155 @@
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 100%;
+}
+
+a:visited {
+	color: purple;
+}
+
+.active {
+	color: blue;
+}
+
+h1 {
+	font-family: 'Lobster', cursive;
+	font-size: 100%;
+	text-align: left;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	margin-left: 10%;
+}
+
+h2,h3 {
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 100%;
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+footer {
+	margin-top: 5%;
+	background-image: url(./kepek/simple.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#logo {
+	font-family: 'Lobster', cursive;
+	font-size: 200%;
+}
+
+.inline {
+	display: inline;
+}
+
+#logoSmall {
+	width: 5%;
+	height:5%;
+	margin-left: 20px;
+}
+
+#background {
+	background-image: url("kepek/bs2.png");
+}
+
+.responsive{
+	width: 100%;
+	height: auto;
+}
+
+.center {
+  margin: auto;
+  width: 60%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+p {
+	margin-left: 40px;
+}
+
+#logo {
+	width: 15%;
+	height: auto;
+	margin-bottom: 1%;
+}
+
+
+
+.float-right {
+	float: right;
+	margin-right: 15%;
+}
+
+.float-left {
+	text-align: left;
+}
+
+.float-auto {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+video {
+	width: 100%;
+	height: auto;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+.center {
+	text-align: center;
+}
+
+/*Small logo*/
+#smallLogo {
+	width: 15%;
+	height: auto;
+	margin-left: 30%;
+}
+
+#bigLogo {
+	float:left;
+	width: 25%;
+	height: auto;
+}
+
+header {
+	margin-bottom: 5%;
+	margin-top: 3%;
+	margin-left: 20%;
+}
+
+.top-margin25{
+	margin-left: 25%;
+	margin-top: 35%;
+}
+
+.top-margin10{
+	margin-left: 10%;
+	margin-top: 10%;
+}
+
+.margin-top-bottom{
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+
+.checked {
+  color: orange;
+}
+
+.margin-left{
+	margin-left: 55%;
+}
+
+.iframestuff{
+	margin-left: 25%;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
